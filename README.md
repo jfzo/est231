@@ -36,11 +36,14 @@ Sala 5 | Lunes 15.40 hrs
 ### Evaluaciones del curso
 
 * Para las unidades 2 y 3 del curso se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
-* Asistencia obligatoria de un 80%. En caso de menor asistencia
+* Asistencia obligatoria y en base a esta, se entregará un factor que ponderará la nota final. Para esto se usará la siguiente expresión sobre la proporción del total de sesiones asistidas __s__:
 
-```rawtex
-$x^2 - i_1$
-```
+<a href="https://www.codecogs.com/eqnedit.php?latex=\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" title="\eta(s)=8.333\times 10^{-6}\cdot(s-20)\cdot(s^2-115\cdot s+4800)" /></a>
+
+* Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathsf{nf}=\eta(\mathbf{s})\times\left(&space;\frac{\mathcal{E}_1&plus;\mathcal{E}_2&plus;\mathcal{E}_3&plus;\mathcal{P}_1&plus;\mathcal{P}_2}{5}\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathsf{nf}=\eta(\mathbf{s})\times\left(&space;\frac{\mathcal{E}_1&plus;\mathcal{E}_2&plus;\mathcal{E}_3&plus;\mathcal{P}_1&plus;\mathcal{P}_2}{5}\right&space;)" title="\mathsf{nf}=\eta(\mathbf{s})\times\left( \frac{\mathcal{E}_1+\mathcal{E}_2+\mathcal{E}_3+\mathcal{P}_1+\mathcal{P}_2}{5}\right )" /></a>
+
 ### Normas
 
 
