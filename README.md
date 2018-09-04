@@ -42,9 +42,6 @@ Sala 5 | Lunes 15.40 hrs
 
 ![etaim](funcion_eta.png)
 
-![etaim2](https://www.desmos.com/calculator/yahzmcb7a6?embed)
-
-<iframe width="500" height="500" style="border: 1px solid #ccc" frameborder=0 src="https://www.desmos.com/calculator/yahzmcb7a6?embed"></iframe>
 
 * Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
 
