@@ -47,5 +47,5 @@ a + b = c
 
 ### Recursos disponibles
 
-* [Apuntes del curso](#Apuntes)
+* [Apuntes del curso](#apuntes)
 * Gentle, J.E. (2007). Matrix Algebra: Theory, Computations and Applications in Statistics. Springer, New York.
