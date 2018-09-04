@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: logo_small.png
 description: Computación Estadística 2 <br/> EST231
 show_downloads: false
+github.is_project_page: false
