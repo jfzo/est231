@@ -35,11 +35,11 @@ Sala 5 | Lunes 15.40 hrs
 
 ### Evaluaciones del curso
 
-* A contar de la segunda unidad se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
-* Asistencia obligatoria de un 80%.
+* Para las unidades 2 y 3 del curso se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
+* Asistencia obligatoria de un 80%. En caso de menor asistencia
 
-```math #yourmathlabel
-a + b = c
+```rawtex
+$x^2 - i_1$
 ```
 ### Normas
 
@@ -47,5 +47,5 @@ a + b = c
 
 ### Recursos disponibles
 
-* [Apuntes del curso](#apuntes)
+* Ver sección de [apuntes del curso](#apuntes)
 * Gentle, J.E. (2007). Matrix Algebra: Theory, Computations and Applications in Statistics. Springer, New York.
