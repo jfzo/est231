@@ -40,7 +40,7 @@ Sala 5 | Lunes 15.40 hrs
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" title="\eta(s)=8.333\times 10^{-6}\cdot(s-20)\cdot(s^2-115\cdot s+4800)" /></a>
 
-[img[https://latex.codecogs.com/gif.latex?\eta(s)=8.333\times 10^{-6}\cdot(s-20)\cdot(s^2-115\cdot s+4800)]]
+![img](https://latex.codecogs.com/gif.latex?\eta(s)=8.333\times 10^{-6}\cdot(s-20)\cdot(s^2-115\cdot s+4800))
 
 * Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
 
