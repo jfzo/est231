@@ -36,7 +36,7 @@ Sala 5 | Lunes 15.40 hrs
 ### Evaluaciones del curso
 
 * Para las unidades 2 y 3 del curso se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
-* Asistencia obligatoria y en base a esta, se entregará un factor que ponderará la nota final. Para esto se usará la siguiente expresión sobre la proporción del total de sesiones asistidas __s__:
+* Asistencia obligatoria y en base a esta, se entregará un factor que ponderará la nota final. Para esto se usará la siguiente expresión sobre el porcentaje (entre 0% y 100%) de sesiones asistidas __s__:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\eta(s)=8.333\times&space;10^{-6}\cdot(s-20)\cdot(s^2-115\cdot&space;s&plus;4800)" title="\eta(s)=8.333\times 10^{-6}\cdot(s-20)\cdot(s^2-115\cdot s+4800)" /></a>
 
