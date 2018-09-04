@@ -21,6 +21,10 @@ Sala 5 | Lunes 15.40 hrs
 5. Ortogonalización y métodos de mínimos cuadrados
 6. Procedimientos numéricos para el cálculo de valores y vectores propios
 
+### Planificación de las sesiones
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRijHUvOETJ3DsuaH5_6jo4bURRLPFnw6mMgmCY_gyGqqz2QhsQAFpRVk1MukjxonpGaUiaDrw7zotA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ### Recursos disponibles
 
 * [Apuntes del curso](Apuntes.md)
