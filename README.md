@@ -40,7 +40,7 @@ Sala 5 | Lunes 15.40 hrs
 
 ![etas](https://latex.codecogs.com/gif.latex?%5Ceta%28s%29%3D1.112%5Ctimes10%5E%7B-7%7D%5Ccdot%20s%5E4-0.00002861%5Ccdot%20s%5E3&plus;0.002313%5Ccdot%20s%5E2-0.0464%5Ccdot%20s)
 
-![etaim](funcion_eta.png)
+![etaim](funcion_eta_plot.png)
 
 
 * Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
