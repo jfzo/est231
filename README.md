@@ -32,7 +32,20 @@ Sala 5 | Lunes 15.40 hrs
 
 <iframe width="600" height="900" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRijHUvOETJ3DsuaH5_6jo4bURRLPFnw6mMgmCY_gyGqqz2QhsQAFpRVk1MukjxonpGaUiaDrw7zotA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+
+### Evaluaciones del curso
+
+* A contar de la segunda unidad se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
+* Asistencia obligatoria de un 80%.
+
+```math #yourmathlabel
+a + b = c
+```
+### Normas
+
+
+
 ### Recursos disponibles
 
-* [Apuntes del curso](#apuntes)
+* [Apuntes del curso](#Apuntes)
 * Gentle, J.E. (2007). Matrix Algebra: Theory, Computations and Applications in Statistics. Springer, New York.
