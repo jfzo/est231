@@ -1,6 +1,3 @@
-## Computación Estadística 2 - EST231 
-
-
 ### Profesores
 
 Nombre |  Correo |  Horario Atención | Ubicación 
