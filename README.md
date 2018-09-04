@@ -38,11 +38,11 @@ Sala 5 | Lunes 15.40 hrs
 * Para las unidades 2 y 3 del curso se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
 * Asistencia obligatoria y en base a esta, se entregará un factor que ponderará la nota final. Para esto se usará la siguiente expresión sobre el porcentaje (entre 0% y 100%) de sesiones asistidas __s__:
 
-![img2](https://latex.codecogs.com/gif.latex?%5Ceta%28s%29%3D8.333%5Ctimes%2010%5E%7B-6%7D%5Ccdot%28s-20%29%5Ccdot%28s%5E2-115%5Ccdot%20s&plus;4800%29)
+![etas](https://latex.codecogs.com/gif.latex?%5Ceta%28s%29%3D8.333%5Ctimes%2010%5E%7B-6%7D%5Ccdot%28s-20%29%5Ccdot%28s%5E2-115%5Ccdot%20s&plus;4800%29)
 
 * Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
 
-https://latex.codecogs.com/gif.latex?%5Cmathsf%7Bnf%7D%3D%5Ceta%28%5Cmathbf%7Bs%7D%29%5Ctimes%5Cleft%28%20%5Cfrac%7B%5Cmathcal%7BE%7D_1&plus;%5Cmathcal%7BE%7D_2&plus;%5Cmathcal%7BE%7D_3&plus;%5Cmathcal%7BP%7D_1&plus;%5Cmathcal%7BP%7D_2%7D%7B5%7D%5Cright%20%29%20x
+![nf](https://latex.codecogs.com/gif.latex?%5Cmathsf%7Bnf%7D%3D%5Ceta%28%5Cmathbf%7Bs%7D%29%5Ctimes%5Cleft%28%20%5Cfrac%7B%5Cmathcal%7BE%7D_1&plus;%5Cmathcal%7BE%7D_2&plus;%5Cmathcal%7BE%7D_3&plus;%5Cmathcal%7BP%7D_1&plus;%5Cmathcal%7BP%7D_2%7D%7B5%7D%5Cright%20%29%20x)
 
 ### Normas
 
