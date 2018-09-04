@@ -34,5 +34,5 @@ Sala 5 | Lunes 15.40 hrs
 
 ### Recursos disponibles
 
-* [Apuntes del curso](Apuntes.md)
+* [Apuntes del curso](#apuntes)
 * Gentle, J.E. (2007). Matrix Algebra: Theory, Computations and Applications in Statistics. Springer, New York.
