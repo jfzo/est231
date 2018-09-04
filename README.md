@@ -42,7 +42,7 @@ Sala 5 | Lunes 15.40 hrs
 
 * Consideran las 3 evaluaciones junto con las notas de cada uno de los dos proyectos, la nota final previa al examen se calcula como indica la expresión:
 
-![nf](https://latex.codecogs.com/gif.latex?%5Cmathsf%7Bnf%7D%3D%5Ceta%28%5Cmathbf%7Bs%7D%29%5Ctimes%5Cleft%28%20%5Cfrac%7B%5Cmathcal%7BE%7D_1&plus;%5Cmathcal%7BE%7D_2&plus;%5Cmathcal%7BE%7D_3&plus;%5Cmathcal%7BP%7D_1&plus;%5Cmathcal%7BP%7D_2%7D%7B5%7D%5Cright%20%29%20x)
+![nf](https://latex.codecogs.com/gif.latex?%5Cmathsf%7Bnf%7D%3D%5Ceta%28s%29%5Ctimes%5Cleft%28%20%5Cfrac%7B%5Cmathcal%7BE%7D_1&plus;%5Cmathcal%7BE%7D_2&plus;%5Cmathcal%7BE%7D_3&plus;%5Cmathcal%7BP%7D_1&plus;%5Cmathcal%7BP%7D_2%7D%7B5%7D%5Cright%20%29%20x)
 
 ### Normas
 
