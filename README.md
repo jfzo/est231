@@ -23,7 +23,7 @@ Sala 5 | Lunes 15.40 hrs
 
 ### Planificación de las sesiones
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRijHUvOETJ3DsuaH5_6jo4bURRLPFnw6mMgmCY_gyGqqz2QhsQAFpRVk1MukjxonpGaUiaDrw7zotA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="900" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRijHUvOETJ3DsuaH5_6jo4bURRLPFnw6mMgmCY_gyGqqz2QhsQAFpRVk1MukjxonpGaUiaDrw7zotA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Recursos disponibles
 
