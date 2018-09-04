@@ -38,7 +38,7 @@ Sala 5 | Lunes 15.40 hrs
 * Para las unidades 2 y 3 del curso se entregará un proyecto a desarrollar (máximo 2 integrantes). Una serie de hitos de avance serán definidos previamente por cada proyecto junto con su respectiva fecha de evaluación. 
 * Asistencia obligatoria y en base a esta, se entregará un factor que ponderará la nota final. Para esto se usará la siguiente expresión sobre el porcentaje (entre 0% y 100%) de sesiones asistidas __s__:
 
-![etas](https://latex.codecogs.com/gif.latex?%5Ceta%28s%29%3D8.333%5Ctimes%2010%5E%7B-6%7D%5Ccdot%28s-20%29%5Ccdot%28s%5E2-115%5Ccdot%20s&plus;4800%29)
+![etas](https://latex.codecogs.com/gif.latex?%5Ceta%28s%29%3D1.112%5Ctimes10%5E%7B-7%7D%5Ccdot%20s%5E4-0.00002861%5Ccdot%20s%5E3&plus;0.002313%5Ccdot%20s%5E2-0.0464%5Ccdot%20s)
 
 ![etaim](funcion_eta.png)
 
