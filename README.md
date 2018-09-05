@@ -48,7 +48,7 @@ La nota final del curso se compone de las notas de evaluaciones (3) y de los pro
 
 * Las 3 evaluaciones de cátedra junto con las notas de cada uno de los dos proyectos conformaran la nota final previa al examen se calcula como indica la expresión:
 
-![nf](https://latex.codecogs.com/gif.latex?\mathsf{nf}%3Dmax\{\mathbf{2;}\eta(s)\times\left(%20\frac{\mathcal{E}_1&plus;\mathcal{E}_2&plus;\mathcal{E}_3&plus;\mathcal{P}_1&plus;\mathcal{P}_2}{5}\right%20)%20x\})
+![nf](https://latex.codecogs.com/gif.latex?\mathsf{nf}%3Dmax\left%20\{\mathbf{2;}\eta(s)\times\left(%20\frac{\mathcal{E}_1&plus;\mathcal{E}_2&plus;\mathcal{E}_3&plus;\mathcal{P}_1&plus;\mathcal{P}_2}{5}\right%20)\right%20\})
 
 ### Normas
 
